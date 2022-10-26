@@ -1,5 +1,5 @@
 # The name of the work flow. Badges will use this name
-name: 'CI'
+name: 'CI - Artifacts'
 
 on:
   push:
