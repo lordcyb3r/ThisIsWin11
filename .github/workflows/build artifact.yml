@@ -28,5 +28,5 @@ jobs:
       with:
         name: WNW11
         path: |
-          WhyNotWin11*.exe
+          *
           if-no-files-found: error
