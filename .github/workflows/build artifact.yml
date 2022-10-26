@@ -28,5 +28,5 @@ jobs:
       with:
         name: WNW11
         path: |
-          *
+          src\TIW11\bin\Release
           if-no-files-found: error
